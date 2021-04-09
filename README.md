@@ -1,8 +1,8 @@
-#DiviAngel
+# DiviAngel
 
 *Currently hosted at: <https://diviangel.azurewebsites.net/>*
 
-##1.  What is DiviAngel?
+## 1.  What is DiviAngel?
 
 DiviAngel is a service focused on analyzing and tracking dividend
 portfolios (not only dividend ones, but the main focus is on such).
@@ -38,7 +38,7 @@ Some of the ready to use features are:
 
 -   Positions monitoring
 
-##2.  How can I use it?
+## 2.  How can I use it?
 
 Currently DiviAngel is under development, but it is hosted at:
 <https://diviangel.azurewebsites.net/>. In order to give it a try you
@@ -49,7 +49,7 @@ Email: test\@gmail.com
 
 Password: a123123
 
-##3.  Used technologies
+## 3.  Used technologies
 
 -   EntityFramework
 
@@ -65,4 +65,4 @@ Password: a123123
 
 -   Azure
 
-##4. Screenshots
+## 4. Screenshots
