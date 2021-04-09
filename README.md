@@ -4,8 +4,8 @@
 
 ## 1.  What is DiviAngel?
 
-DiviAngel is a service focused on analyzing and tracking dividend
-portfolios (not only dividend ones, but the main focus is on such).
+The main focus of DiviAngel is to analyze and track dividend portfolios, 
+although it has a lot of other functionality
 
 It provides comprehensive analysis, a unique combination of features
 which makes the managing of a dividend portfolio a piece of cake.
@@ -24,15 +24,14 @@ Some of the ready to use features are:
 -   Annual dividend income & how much of the dividend income is already
     received
 
--   Which months the dividend payments are expected to be proceeded and
-    what is their value
+-   Which months the dividend payments are expected to be proceeded and what is their value
 
 -   Portfolio diversification
 
 -   Modern portfolio theory analysis: variance, covariance, beta,
     standard deviation
 
--   Payment dates for each position (if it is a dividend company)
+-   Payment dates for each position
 
 -   Correlation between the different assets in the portfolio
 
@@ -43,7 +42,7 @@ Some of the ready to use features are:
 Currently DiviAngel is under development, but it is hosted at:
 <https://diviangel.azurewebsites.net/>. In order to give it a try you
 just need a registration or can use an already registered account for
-testing:
+a demo:
 
 Email: test\@gmail.com
 
@@ -51,19 +50,19 @@ Password: a123123
 
 ## 3.  Used technologies
 
--   EntityFramework
-
--   SQL
-
 -   .NET Core
 
 -   MVC architecture
 
--   Identities
+-   ASP.NET Identitiy
 
--   Bootstrap
+-   EntityFramework
 
 -   Azure
+
+-   SQL
+
+-   Bootstrap
 
 ## 4. Screenshots
 ![image](https://user-images.githubusercontent.com/29233648/114179444-aaab1a80-9947-11eb-89d1-612b59ecbc18.png)
